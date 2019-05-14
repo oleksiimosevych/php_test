@@ -37,7 +37,10 @@ Class DBClass
 		$stmt->execute($data);//, $bindP, $getP);
 	}
 	//видаляти
-	
+	public function delete_user($id ){
+		$stmt = $this->pdo->prepare('Delete FROM users WHERE id = '.$id);
+        $stmt->execute();
+	}
 
 	//додавати
 	public function insert_user($data){
