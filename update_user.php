@@ -14,8 +14,9 @@
 				$user_id=$_POST['user_id'];
 				// echo "ID is ".$user_id." or "; print_r($user_id);
 				$tmp->update_user($data, $user_id);
+				$infoLogger->info('User data is updated by IP ', array('user'=>$_SERVER['SERVER_ADDR'], 'date'=>date('H:i:s at d.m.Y'), 'Date'=>array('new name'=>$_POST['name1'],'new email'=>$_POST['email'], 'new country_id'=>$_POST['country_id'],) ) );
 			}else
-			{echo 'oops. no data received'; }
+			{echo 'oops. no data received';  }
 
 			?>
 			<input type='hidden' name='user_id' value="<?=$_POST['user_id']?>" ><?=$_POST['user_id']?></input>
@@ -48,6 +49,7 @@
 			DESTROY <?=$_POST['name1']?> for now? </br>
 			<input type='hidden' name='user_id' value="<?=$_POST['user_id']?>" ></input>
 			<input type='hidden' name='name1' value="<?=$_POST['name1']?>" ></input></br>
+			<input type='hidden' name='email' value="<?=$_POST['email']?>" ></input></br>
 			<input type='submit' name="submit" value='DESTROY'></input>
 		</div>
 	</form>

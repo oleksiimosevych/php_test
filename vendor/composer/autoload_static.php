@@ -10,6 +10,7 @@ class ComposerStaticInita2cb27a0b29772e4ecc3ed7e437d41ac
         'P' => 
         array (
             'Psr\\Log\\' => 8,
+            'PhpConsole\\' => 11,
         ),
         'M' => 
         array (
@@ -21,6 +22,10 @@ class ComposerStaticInita2cb27a0b29772e4ecc3ed7e437d41ac
         'Psr\\Log\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/log/Psr/Log',
+        ),
+        'PhpConsole\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/php-console/php-console/src/PhpConsole',
         ),
         'Monolog\\' => 
         array (
