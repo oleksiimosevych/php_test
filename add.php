@@ -29,8 +29,9 @@
 <?php
 
 $data= array ($_POST['name1'],$_POST['email'],$_POST['country_id']);
-
-$tmp->insert_user($data);
-
+if (isset($data)){
+	echo '<h1>OK';
+	$tmp->insert_user($data);
+}
 
 ?>

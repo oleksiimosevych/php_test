@@ -6,7 +6,7 @@
     	<form action='update_country.php' method='POST'>
 	
 	<div id=#textbox>
-	Country: </br>	<input type='hidden' name='country' value="<?=$tab['country']?>" ></input>
+	Country: <input type='hidden' name='country' value="<?=$tab['country']?>" ></input>
 	<input type='hidden' name='id' value="<?=$tab['id']?>" ></input>
 	<?=$tab['country']?></br>
 	

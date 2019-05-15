@@ -32,13 +32,13 @@ Class DBClass
 	}
 
 	public function review_users(){
-		$result = $this->pdo->query('SELECT u.name, u.email, u.country_id, c.country as country, c.id FROM users u left join countries c on u.country_id=c.id');
+		$result = $this->pdo->query('SELECT u.id as user_id, u.name, u.email, u.country_id, c.country as country, c.id FROM users u left join countries c on u.country_id=c.id');
 		$tmp= $result->fetchAll(PDO::FETCH_ASSOC);
 		 return $tmp;
 	}
-	//оновлювати 
-	public function update_user($data, $id){//, $bindP, $getP){
-		$stmt = $this->pdo->prepare("update users set name=?, email=?, country_id=? WHERE id= ".$id);
+	//оновлювати
+	public function update_user($data, $user_id){//, $bindP, $getP){
+		$stmt = $this->pdo->prepare("update users set name=?, email=?, country_id=? WHERE id= ".$user_id);
         //$stmt->bindParam($bindP, $getP);
 		$stmt->execute($data);//, $bindP, $getP);
 	}
@@ -49,7 +49,7 @@ Class DBClass
 	}
 	
 	//видаляти
-	public function delete_user($id ){
+	public function destroy_user($id ){
 		$stmt = $this->pdo->prepare('Delete FROM users WHERE id = '.$id);
         $stmt->execute();
 	}

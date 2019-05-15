@@ -22,9 +22,9 @@
 	</form>
 <?php
 
-$data= array ($_POST['country']);
-$id=$_POST['id'];
-$tmp->update_country($data,$id);
+	$data= array ($_POST['country']);
+	$id=$_POST['id'];
+	$tmp->update_country($data,$id);
 
-include 'show_foreach_countries.php';
+	include 'show_foreach_countries.php';
 ?>
