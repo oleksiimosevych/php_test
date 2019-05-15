@@ -6,7 +6,9 @@
 	</head>
 	<body bgcolor="gold">
 	<center>
+		<br><a href='add_country.php'>ADD new Country</a><br>
+
 <?php
-include 'show_foreach_users.php';
+include 'show_foreach_countries.php';
 		
 ?>
