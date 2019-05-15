@@ -11,7 +11,15 @@
 	RENAME <?=$_POST['country']?> into </br>	<input type='text' name='country' value="<?=$_POST['country']?>" ><input type='hidden' name='id' value="<?=$_POST['id']?>" ></input></br>
 	
 	<input type='submit' name="submit" value='Update'></input></div>
-</form>
+	</form>
+	<br> DESTROY|DELETE|ERASE<br><br>
+	<form action='delete_country.php' method='POST'>
+	
+	<div id=#textbox>
+	DESTROY <?=$_POST['country']?> for now? </br><input type='hidden' name='id' value="<?=$_POST['id']?>" ></input><input type='hidden' name='country' value="<?=$_POST['country']?>" ></input></br>
+	
+	<input type='submit' name="submit" value='DESTROY'></input></div>
+	</form>
 <?php
 
 $data= array ($_POST['country']);

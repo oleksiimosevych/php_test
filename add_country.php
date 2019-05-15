@@ -19,11 +19,5 @@ $data= array ($_POST['country']);
 
 $tmp->insert_country($data);
 
-$table =$tmp->review_countries();
-echo "<div class='diary'>Countries: ";
-        foreach($table  as $tab){
-          echo "{$tab['country']} <a href='update_country.php'>Update</a><br>";
-		  
-		}
-		//endforeach;
+include 'show_foreach_countries.php';
 ?>

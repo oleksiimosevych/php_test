@@ -53,10 +53,11 @@ Class DBClass
 		$stmt = $this->pdo->prepare('Delete FROM users WHERE id = '.$id);
         $stmt->execute();
 	}
-	public function delete_country($id ){
-		$stmt = $this->pdo->prepare('Delete FROM users WHERE id = '.$id);
+	public function destroy_country($id ){
+		$stmt = $this->pdo->prepare('Delete FROM countries WHERE id = '.$id);
         $stmt->execute();
 	}
+
 
 	//додавати
 	public function insert_user($data){
