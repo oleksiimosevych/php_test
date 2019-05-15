@@ -21,10 +21,12 @@
 	<input type='submit' name="submit" value='DESTROY'></input></div>
 	</form>
 <?php
-
+if (isset($_POST['country'])&& (isset($_POST['id']))&&(isset($_POST['submit']))) {
+	
 	$data= array ($_POST['country']);
 	$id=$_POST['id'];
 	$tmp->update_country($data,$id);
-
+	$infoLogger->info('Country renamed by ', array('user'=>$_SERVER['SERVER_ADDR'], 'date'=>date('H:i:s d.m.Y'), 'new Country name'=>$_POST['country'] ) );
+}
 	include 'show_foreach_countries.php';
 ?>

@@ -28,7 +28,7 @@
 </form>
 <?php
 
-if ((isset($_POST['name1']))&&(isset($_POST['user_id']))&&(isset($_POST['email']))&&(isset($_POST['country_id']))){
+if ((isset($_POST['name1']))&&(isset($_POST['email']))&&(isset($_POST['country_id']))){
 	$data= array ($_POST['name1'],$_POST['email'],$_POST['country_id']);
 	$tmp->insert_user($data);
 	$infoLogger->info('New user has been created by ', array('user'=>$_SERVER['SERVER_ADDR'], 'date'=>date('H:i:s at d.m.Y'), 'Date'=>array('new name'=>$_POST['name1'],'new email'=>$_POST['email'], 'new country_id'=>$_POST['country_id']) ) );

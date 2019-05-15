@@ -14,8 +14,10 @@
 </form>
 
 <?php
-$id=$_POST['id'];
-
-$tmp->destroy_country($id);
-
+if (isset($_POST['country'])){
+	$id=$_POST['id'];
+	echo 'first if you want to destroy country you have to delete all users from country..'; 
+	$tmp->destroy_country($id);
+	$infoLogger->info('country data is deleted by ', array('user'=>$_SERVER['SERVER_ADDR'], 'date'=>date('H:i:s d.m.Y'), 'Additional info'=>array('it was'=>$_POST['country'],'country_id was'=>$_POST['id'] ) ) );
+}else {echo 'first if you want to destroy country you have to delete all users from country..'; }
 

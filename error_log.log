@@ -46,3 +46,238 @@ Stack trace:
 [15-May-2019 12:47:46 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 31
 [15-May-2019 12:47:46 America/Los_Angeles] PHP Notice:  Undefined index: country_id in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 31
 [2019-05-15 12:47:46] name.ERROR: No name set [] []
+[15-May-2019 13:40:28 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 13:40:28 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 13:40:28] name.ERROR: No name set [] []
+[15-May-2019 13:40:31 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 13:40:31 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 13:40:31] name.ERROR: No name set [] []
+[15-May-2019 13:40:32 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 13:40:32 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 13:40:32] name.ERROR: No name set [] []
+[15-May-2019 13:41:53 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 13:41:53 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 13:41:53] name.ERROR: No name set [] []
+[15-May-2019 13:51:02 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 13:51:02 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 13:51:02] name.ERROR: No name set [] []
+[15-May-2019 13:51:06 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 13:51:06 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 13:51:06] name.ERROR: No name set [] []
+[15-May-2019 13:56:13 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 13:56:13 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 18
+[15-May-2019 13:56:54 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 13:56:54 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 18
+[15-May-2019 13:56:56 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 13:56:56 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 13:56:56] name.ERROR: No name set [] []
+[15-May-2019 13:56:59 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 13:56:59 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 18
+[15-May-2019 13:57:05 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 13:57:05 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 18
+[15-May-2019 13:57:06 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 13:57:06 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 18
+[15-May-2019 13:57:08 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 13:57:08 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 18
+[15-May-2019 14:00:34 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 14:06:09 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\update_country.php on line 11
+[15-May-2019 14:06:09 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\update_country.php on line 11
+[15-May-2019 14:06:09 America/Los_Angeles] PHP Notice:  Undefined index: id in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\update_country.php on line 11
+[15-May-2019 14:06:09 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\update_country.php on line 19
+[15-May-2019 14:06:09 America/Los_Angeles] PHP Notice:  Undefined index: id in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\update_country.php on line 19
+[15-May-2019 14:06:09 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\update_country.php on line 19
+[15-May-2019 14:07:10 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:07:10 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:07:10] name.ERROR: No name set [] []
+[15-May-2019 14:07:44 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:07:44 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:07:44] name.ERROR: No name set [] []
+[15-May-2019 14:07:47 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 14:07:57 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:07:57 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:07:57] name.ERROR: No name set [] []
+[15-May-2019 14:09:04 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:09:04 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:09:04] name.ERROR: No name set [] []
+[15-May-2019 14:09:06 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:09:06 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:09:06] name.ERROR: No name set [] []
+[15-May-2019 14:09:06 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:09:06 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:09:06] name.ERROR: No name set [] []
+[15-May-2019 14:09:07 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:09:07 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:09:07] name.ERROR: No name set [] []
+[15-May-2019 14:09:07 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:09:07 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:09:07] name.ERROR: No name set [] []
+[15-May-2019 14:09:11 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:09:11 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:09:11] name.ERROR: No name set [] []
+[15-May-2019 14:09:16 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 14:09:18 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:09:18 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:09:18] name.ERROR: No name set [] []
+[15-May-2019 14:10:59 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:10:59 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:10:59] name.ERROR: No name set [] []
+[15-May-2019 14:11:03 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:11:03 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:11:03] name.ERROR: No name set [] []
+[2019-05-15 14:11:25] name.ERROR: No name set [] []
+[15-May-2019 14:13:01 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:13:01 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:13:01] name.ERROR: No name set [] []
+[15-May-2019 14:13:13 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 14:15:54 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:15:54 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:15:54] name.ERROR: No name set [] []
+[15-May-2019 14:15:59 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 14:16:18 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 14:16:21 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:16:21 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:16:21] name.ERROR: No name set [] []
+[15-May-2019 14:16:25 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 14:16:42 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 14:16:44 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:16:44 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:16:44] name.ERROR: No name set [] []
+[15-May-2019 14:21:45 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:21:45 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:21:45] name.ERROR: No name set [] []
+[15-May-2019 14:22:20 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:22:20 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:22:20] name.ERROR: No name set [] []
+[2019-05-15 14:22:27] name.ERROR: No name set [] []
+[2019-05-15 14:22:29] name.ERROR: No name set [] []
+[2019-05-15 14:22:32] name.ERROR: No name set [] []
+[2019-05-15 14:22:34] name.ERROR: No name set [] []
+[15-May-2019 14:23:51 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 14:26:35 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 14:40:36 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 14:40:42 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:40:42 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:40:42] name.ERROR: No name set [] []
+[15-May-2019 14:41:02 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`all_users`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `countries` (`id`))' in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php:60
+Stack trace:
+#0 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php(60): PDOStatement->execute()
+#1 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\delete_country.php(20): DBClass->destroy_country('8')
+#2 {main}
+  thrown in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php on line 60
+[15-May-2019 14:41:37 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`all_users`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `countries` (`id`))' in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php:60
+Stack trace:
+#0 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php(60): PDOStatement->execute()
+#1 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\delete_country.php(20): DBClass->destroy_country('5')
+#2 {main}
+  thrown in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php on line 60
+[15-May-2019 14:42:31 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`all_users`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `countries` (`id`))' in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php:60
+Stack trace:
+#0 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php(60): PDOStatement->execute()
+#1 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\delete_country.php(20): DBClass->destroy_country('5')
+#2 {main}
+  thrown in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php on line 60
+[15-May-2019 14:43:02 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`all_users`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `countries` (`id`))' in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php:60
+Stack trace:
+#0 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php(60): PDOStatement->execute()
+#1 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\delete_country.php(20): DBClass->destroy_country('5')
+#2 {main}
+  thrown in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php on line 60
+[15-May-2019 14:43:08 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`all_users`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `countries` (`id`))' in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php:60
+Stack trace:
+#0 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php(60): PDOStatement->execute()
+#1 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\delete_country.php(20): DBClass->destroy_country('5')
+#2 {main}
+  thrown in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php on line 60
+[15-May-2019 14:44:22 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`all_users`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `countries` (`id`))' in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php:60
+Stack trace:
+#0 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php(60): PDOStatement->execute()
+#1 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\delete_country.php(20): DBClass->destroy_country('5')
+#2 {main}
+  thrown in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php on line 60
+[15-May-2019 14:45:43 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`all_users`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `countries` (`id`))' in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php:60
+Stack trace:
+#0 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php(60): PDOStatement->execute()
+#1 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\delete_country.php(20): DBClass->destroy_country('5')
+#2 {main}
+  thrown in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php on line 60
+[15-May-2019 14:46:39 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`all_users`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `countries` (`id`))' in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php:60
+Stack trace:
+#0 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php(60): PDOStatement->execute()
+#1 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\delete_country.php(20): DBClass->destroy_country('5')
+#2 {main}
+  thrown in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php on line 60
+[15-May-2019 14:46:44 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`all_users`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `countries` (`id`))' in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php:60
+Stack trace:
+#0 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php(60): PDOStatement->execute()
+#1 C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\delete_country.php(20): DBClass->destroy_country('5')
+#2 {main}
+  thrown in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\DBClass.php on line 60
+[15-May-2019 14:47:18 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 14:47:28 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:47:28 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:47:28] name.ERROR: No name set [] []
+[2019-05-15 14:47:44] name.ERROR: No name set [] []
+[2019-05-15 14:48:32] name.ERROR: No name set [] []
+[15-May-2019 14:48:43 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:48:43 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:48:43] name.ERROR: No name set [] []
+[2019-05-15 14:48:58] name.ERROR: No name set [] []
+[15-May-2019 14:50:03 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:50:03 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:50:03] name.ERROR: No name set [] []
+[2019-05-15 14:50:13] name.ERROR: No name set [] []
+[2019-05-15 14:50:18] name.ERROR: No name set [] []
+[15-May-2019 14:50:48 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:50:48 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:50:48] name.ERROR: No name set [] []
+[2019-05-15 14:53:02] name.ERROR: No name set [] []
+[2019-05-15 14:54:17] name.ERROR: No name set [] []
+[2019-05-15 14:54:27] name.ERROR: No name set [] []
+[15-May-2019 14:54:33 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:54:33 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:54:33] name.ERROR: No name set [] []
+[2019-05-15 14:54:39] name.ERROR: No name set [] []
+[2019-05-15 14:54:40] name.ERROR: No name set [] []
+[2019-05-15 14:54:41] name.ERROR: No name set [] []
+[15-May-2019 14:55:20 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:55:20 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:55:20] name.ERROR: No name set [] []
+[15-May-2019 14:55:23 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 14:56:27 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:56:27 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:56:27] name.ERROR: No name set [] []
+[2019-05-15 14:56:40] name.ERROR: No name set [] []
+[2019-05-15 14:58:51] name.ERROR: No name set [] []
+[2019-05-15 14:59:03] name.ERROR: No name set [] []
+[2019-05-15 14:59:05] name.ERROR: No name set [] []
+[2019-05-15 14:59:05] name.ERROR: No name set [] []
+[15-May-2019 14:59:10 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:59:10 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:59:10] name.ERROR: No name set [] []
+[2019-05-15 14:59:16] name.ERROR: No name set [] []
+[15-May-2019 14:59:20 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 14:59:20 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 14:59:20] name.ERROR: No name set [] []
+[15-May-2019 15:00:19 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 15:00:19 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 15:00:19] name.ERROR: No name set [] []
+[15-May-2019 15:00:21 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 15:00:21 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 15:00:21] name.ERROR: No name set [] []
+[15-May-2019 15:00:22 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 15:00:22 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 15:00:22] name.ERROR: No name set [] []
+[15-May-2019 15:00:24 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 15:00:24 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 15:00:24] name.ERROR: No name set [] []
+[2019-05-15 15:00:32] name.ERROR: No name set [] []
+[15-May-2019 15:00:36 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 15:00:36 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 15:00:36] name.ERROR: No name set [] []
+[15-May-2019 15:02:33 America/Los_Angeles] PHP Notice:  Undefined index: country in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add_country.php on line 11
+[15-May-2019 15:03:29 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 15:03:29 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 15:03:29] name.ERROR: No name set [] []
+[15-May-2019 15:04:24 America/Los_Angeles] PHP Notice:  Undefined index: name1 in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 11
+[15-May-2019 15:04:24 America/Los_Angeles] PHP Notice:  Undefined index: email in C:\Bitnami\wampstack-5.6.30-1\apache2\htdocs\test_php_work\add.php on line 12
+[2019-05-15 15:04:24] name.ERROR: No name set [] []
